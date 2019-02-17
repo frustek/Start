@@ -7,3 +7,4 @@ First project repository (sample)
 #3 programować
 #4 SZYBKO!
 #5 Najszybciej
+#6 Już umiem!
