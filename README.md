@@ -6,3 +6,4 @@ First project repository (sample)
 #2 się
 #3 programować
 #4 SZYBKO!
+#5 Najszybciej
